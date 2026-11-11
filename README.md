@@ -8,9 +8,21 @@
 
 Abyss is a native Markdown editor for Mac, iPhone and iPad. Your notes are plain `.md` files in folders you choose, styled where they sit as you type. It is free, with no trial, subscription or in-app purchases.
 
-<a href="https://apps.apple.com/app/id6820560837"><img alt="Get Abyss on the App Store" src="assets/button-app-store.svg" height="44"></a>
-<a href="https://abyss.md"><img alt="abyss.md" src="assets/button-website.svg" height="44"></a>
-<a href="https://github.com/abyssmd/abyss/issues"><img alt="Report a bug or request a feature" src="assets/button-issues.svg" height="44"></a>
+<a href="https://apps.apple.com/app/id6820560837"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/button-app-store-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/button-app-store-light.svg">
+  <img alt="Get Abyss on the App Store" src="assets/button-app-store-dark.svg" height="44">
+</picture></a>
+<a href="https://abyss.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/button-website-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/button-website-light.svg">
+  <img alt="abyss.md" src="assets/button-website-dark.svg" height="44">
+</picture></a>
+<a href="https://github.com/abyssmd/abyss/issues"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/button-issues-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/button-issues-light.svg">
+  <img alt="Report a bug or request a feature" src="assets/button-issues-dark.svg" height="44">
+</picture></a>
 
 <img alt="" src="assets/divider.svg" width="100%">
 
